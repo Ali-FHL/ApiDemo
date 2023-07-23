@@ -1,0 +1,12 @@
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\bin\Debug\net6.0\Business.deps.json
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\bin\Debug\net6.0\Business.dll
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\bin\Debug\net6.0\Business.pdb
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\obj\Debug\net6.0\Business.csproj.AssemblyReference.cache
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\obj\Debug\net6.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\obj\Debug\net6.0\Business.AssemblyInfoInputs.cache
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\obj\Debug\net6.0\Business.AssemblyInfo.cs
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\obj\Debug\net6.0\Business.csproj.CoreCompileInputs.cache
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\obj\Debug\net6.0\Business.dll
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\obj\Debug\net6.0\refint\Business.dll
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\obj\Debug\net6.0\Business.pdb
+D:\Ali Fallah\Ali-Fhl\ApiDemo\src\Business\obj\Debug\net6.0\ref\Business.dll
